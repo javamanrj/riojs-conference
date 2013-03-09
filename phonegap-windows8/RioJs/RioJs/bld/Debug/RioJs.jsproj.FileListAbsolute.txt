@@ -1,0 +1,9 @@
+C:\riojs\visualstudio\RioJs\RioJs\bin\Debug\resources.pri
+C:\riojs\visualstudio\RioJs\RioJs\bin\Debug\AppxManifest.xml
+C:\riojs\visualstudio\RioJs\RioJs\bin\Debug\RioJs.build.appxrecipe
+C:\riojs\visualstudio\RioJs\RioJs\bld\Debug\priconfig.xml
+C:\riojs\visualstudio\RioJs\RioJs\bld\Debug\layout.resfiles
+C:\riojs\visualstudio\RioJs\RioJs\bld\Debug\resources.resfiles
+C:\riojs\visualstudio\RioJs\RioJs\bld\Debug\pri.resfiles
+C:\riojs\visualstudio\RioJs\RioJs\bld\Debug\LanguageQualifiers.txt
+C:\riojs\visualstudio\RioJs\RioJs\bld\Debug\ProjectArchitectures.txt
